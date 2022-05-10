@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CYANIDE-7&label=Views&color=blue&style=plastic" alt="Fauzan" /> </p>
 
-**Hi there 👋 I am Fauzan Khot🐱‍👤**
+### Hi there 👋 I am Fauzan Khot🐱‍👤
 
 -------------------
 
