@@ -7,6 +7,7 @@ ABOUT MY SELF
 - 🌍 I'm From Thane, India 
 - 📫 How to reach me:**[fauzankhot.ft09@gmail.com](mailto:fauzankhot,ft09@gmail.com)**
 - 🌱 I’m currently learning **ReactJS,JavaScript,PHP and DSA**
+
 ##SKILLS
 **Languages** 
 <p align="left">
