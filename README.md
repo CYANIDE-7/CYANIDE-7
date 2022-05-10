@@ -28,7 +28,7 @@ ABOUT MY SELF
  </p>
  
 **SOCIAL**
- <p>
+ <p align="left">
  <a href="https://www.instagram.com/_fauzankhot_/">
   <img align="left" alt="Fauzan's Instagram" width="40px" src="https://img.icons8.com/fluency/96/000000/instagram-new.png"/>
 </a>
@@ -37,7 +37,9 @@ ABOUT MY SELF
 </a>
 <a href="https://twitter.com/KhotFauzan">
   <img align="left" alt="Fauzan's Twitter" width="40px"  src="https://img.icons8.com/color/96/000000/twitter--v1.png"/>
-</a> 
+</a>
+<a href="https://wa.me/8433611219">
+  <img src="https://img.icons8.com/color/96/000000/whatsapp--v1.png"/>
  
  
  
