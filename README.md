@@ -29,6 +29,8 @@ ABOUT MY SELF
  
 **SOCIAL**
  <p align="left">
+  <a href="https://www.hackerrank.com/Fauzan_Khot">
+    <img  align="left" alt="Fauzan's Instagram" width="40px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png"/>
  <a href="https://www.instagram.com/_fauzankhot_/">
   <img align="left" alt="Fauzan's Instagram" width="40px" src="https://img.icons8.com/fluency/96/000000/instagram-new.png"/>
 </a>
