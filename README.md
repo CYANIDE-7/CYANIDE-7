@@ -30,10 +30,12 @@ ABOUT MY SELF
  **Tools**
  
  <p align="left">
- <img width="40px" src="https://img.icons8.com/ios/100/000000/visual-studio.png"/>
- <img widht="40px" src="https://img.icons8.com/color/100/000000/git.png"/>
+ <img width="" src="https://img.icons8.com/ios/100/000000/visual-studio.png"/>
+ <img widht="" src="https://img.icons8.com/color/100/000000/git.png"/>
  </p>
+ 
 **SOCIAL**
+
  <p align="left">
   <a href="https://www.hackerrank.com/Fauzan_Khot">
     <img  align="left" alt="Fauzan's Instagram" width="40px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png"/>
