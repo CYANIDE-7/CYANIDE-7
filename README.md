@@ -28,7 +28,7 @@ ABOUT MY SELF
  ##SOCIAL
  
  <a href="https://www.instagram.com/_fauzankhot_/">
-  <img align="left" alt="Pawan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Fauzan's Instagram" width="22px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>
 </a>
 
  
