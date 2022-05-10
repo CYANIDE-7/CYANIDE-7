@@ -38,8 +38,8 @@ ABOUT MY SELF
 <a href="https://twitter.com/KhotFauzan">
   <img align="left" alt="Fauzan's Twitter" width="40px"  src="https://img.icons8.com/color/96/000000/twitter--v1.png"/>
 </a>
-<a href="https://wa.me/8433611219">
-  <img src="https://img.icons8.com/color/96/000000/whatsapp--v1.png"/>
+<a href="https://api.whatsapp.com/send/?phone=918433611219&text&app_absent=0" target="_blank" rel="noreferrer">
+  <img  align="left" alt="Fauzan's WhatsApp" width="40px" src="https://img.icons8.com/color/96/000000/whatsapp--v1.png"/>
  
  
  
