@@ -1,5 +1,8 @@
-### Hi there 👋 My self Fauzan Khot🐱‍👤
-=========================================
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=CYANIDE-7&label=Views&color=blue&style=plastic" alt="Fauzan" /> </p>
+
+**Hi there 👋 I am Fauzan Khot🐱‍👤**
+
+-------------------
 
 Web Designer & Developer
 
@@ -8,6 +11,7 @@ ABOUT MY SELF
 - 🌍 I'm From Thane, India 
 - 📫 How to reach me:**[fauzankhot.ft09@gmail.com](mailto:fauzankhot,ft09@gmail.com)**
 - 🌱 I’m currently learning **ReactJS,JavaScript,PHP and DSA**
+- ⚡ Fun Fact:I spend most of time listening to songs every day.
 
 ##SKILLS
 
@@ -30,8 +34,8 @@ ABOUT MY SELF
  **Tools**
  
  <p align="left">
- <img width="" src="https://img.icons8.com/ios/100/000000/visual-studio.png"/>
- <img widht="" src="https://img.icons8.com/color/100/000000/git.png"/>
+ <img alt="vscode " width="35px" src="https://img.icons8.com/ios/100/000000/visual-studio.png"/>
+<img alt="git" src="https://img.icons8.com/color/48/000000/git.png"/>
  </p>
  
 **SOCIAL**
