@@ -28,13 +28,16 @@ ABOUT MY SELF
  </p>
  
 **SOCIAL**
- 
+ <p>
  <a href="https://www.instagram.com/_fauzankhot_/">
   <img align="left" alt="Fauzan's Instagram" width="40px" src="https://img.icons8.com/fluency/96/000000/instagram-new.png"/>
 </a>
 <a href="https://www.linkedin.com/in/fauzan-khot-55509a22b/">
   <img align="left" alt="Fauzan's Linkedin" width="40px" src="https://img.icons8.com/nolan/64/linkedin-circled.png"/>
- 
+</a>
+<a href="https://twitter.com/KhotFauzan">
+  <img align="left" alt="Fauzan's Twitter" width="40px"  src="https://img.icons8.com/color/96/000000/twitter--v1.png"/>
+</a> 
  
  
  
