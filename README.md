@@ -24,4 +24,21 @@ ABOUT MY SELF
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="36" height="36" alt="React" /></a>  
  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
  </p>
+ 
+ ##SOCIAL
+ 
+ <a href="https://www.instagram.com/_fauzankhot_/">
+  <img align="left" alt="Pawan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 
