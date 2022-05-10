@@ -31,7 +31,7 @@ ABOUT MY SELF
   <img align="left" alt="Fauzan's Instagram" width="22px" src="https://img.icons8.com/fluency/96/000000/instagram-new.png"/>
 </a>
 
- 
+ <img src="https://img.icons8.com/fluency/144/000000/instagram-new.png"/>
  
  
  
