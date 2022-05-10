@@ -13,6 +13,11 @@ ABOUT MY SELF
 - 🌱 I’m currently learning **ReactJS,JavaScript,PHP and DSA**
 - ⚡ Fun Fact:I spend most of time listening to songs every day.
 
+
+<a href="https://twitter.com/KhotFauzan" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/KhotFauzan?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/>
+
 ##SKILLS
 
 **Languages** 
