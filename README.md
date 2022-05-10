@@ -26,11 +26,13 @@ ABOUT MY SELF
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="36" height="36" alt="React" /></a>  
  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
  </p>
- **Tools**
- <p>
- <img width="40px" src="https://img.icons8.com/ios/100/000000/visual-studio.png"/>
- <img widht="40px" src="https://img.icons8.com/color/96/000000/git.png"/>
  
+ **Tools**
+ 
+ <p align="left">
+ <img width="40px" src="https://img.icons8.com/ios/100/000000/visual-studio.png"/>
+ <img widht="40px" src="https://img.icons8.com/color/100/000000/git.png"/>
+ </p>
 **SOCIAL**
  <p align="left">
   <a href="https://www.hackerrank.com/Fauzan_Khot">
