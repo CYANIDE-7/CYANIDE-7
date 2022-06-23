@@ -1,5 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CYANIDE-7&label=Views&color=blue&style=plastic" alt="Fauzan" /> </p>
 
+
 ### Aloha  👋 I am Fauzan Khot🐱‍👤
 
 -------------------
@@ -12,14 +13,15 @@ ABOUT MY SELF
 - 📫 How to reach me:**[fauzankhot.ft09@gmail.com](mailto:fauzankhot,ft09@gmail.com)**
 - 🌱 I’m currently learning **ReactJS,JavaScript,PHP and DSA**
 - ⚡ Fun Fact:I spend most of time listening to songs every day.
-
 <p>
-<a href="https://twitter.com/KhotFauzan" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/KhotFauzan?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917">
+<a href="https://twitter.com/KhotFauzan" target="_blank" rel="noreferrer">
+ <img src="https://img.shields.io/twitter/follow/KhotFauzan?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917">
+ </a>
  </p>
-SKILLS
-
-**Languages** 
+ 
+SKILLS:
+ 
+**LANGUAGES** 
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>  
     <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
@@ -61,6 +63,7 @@ SKILLS
  
  
  
+
  
  
  
