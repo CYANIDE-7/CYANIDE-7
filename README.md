@@ -48,18 +48,15 @@ SKILLS:
 
  <p align="left">
   <a href="https://www.hackerrank.com/Fauzan_Khot">
-    <img  align="left" alt="Fauzan's Instagram" width="40px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png"/>
+    <img  align="left" alt="Fauzan's Instagram" width="max" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
  <a href="https://www.instagram.com/_fauzankhot_/">
-  <img align="left" alt="Fauzan's Instagram" width="40px" src="https://img.icons8.com/fluency/96/000000/instagram-new.png"/>
+  <img align="left" alt="Fauzan's Instagram" width="max" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/fauzan-khot-55509a22b/">
-  <img align="left" alt="Fauzan's Linkedin" width="40px" src="https://img.icons8.com/nolan/64/linkedin-circled.png"/>
-</a>
-<a href="https://twitter.com/KhotFauzan">
-  <img align="left" alt="Fauzan's Twitter" width="40px"  src="https://img.icons8.com/color/96/000000/twitter--v1.png"/>
+  <img align="left" alt="Fauzan's Linkedin" width="max" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://api.whatsapp.com/send/?phone=918433611219&text&app_absent=0" target="_blank" rel="noreferrer">
-  <img  align="left" alt="Fauzan's WhatsApp" width="40px" src="https://img.icons8.com/color/96/000000/whatsapp--v1.png"/>
+  <img  align="left" alt="Fauzan's WhatsApp" width="max" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
  
  
  
